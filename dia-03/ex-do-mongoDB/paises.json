@@ -1,0 +1,32 @@
+[
+    {
+    "nome":"Brasil",
+    "continente":"America do sul",
+    "lingua":"Portugues",
+    "moeda":"Real"
+    },
+    {
+        "nome":"República Checa",
+        "continente":"Europa",
+        "lingua":"Tcheco",
+        "moeda":"Coroa checa"
+    },
+    {
+        "nome":"Maldivas",
+        "continente":"Ásia",
+        "lingua":"Divehi",
+        "moeda":"Rupia Maldivas"
+    },
+    {
+        "nome":"Indonésia",
+        "continente":"Ásia",
+        "lingua":"Indonesio",
+        "moeda":"Rupia Indonesia"
+    },
+    {
+        "nome":"Myanmar",
+        "continente":"Ásia",
+        "lingua":"Birmanes",
+        "moeda":"Quiate"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "nome": "Bandido",
+        "sobrenome": "Mau",
+        "telefone": "(11) 9-4970-6043",
+        "email": "raphaelmelolima@gmail.com",
+        "dataDeNascimento": "22/05/1994",
+        "cpf": "422.195.978.90",
+        "signo": "gemeos"
+    },
+    {
+        "nome": "Monstro",
+        "sobrenome": "Sagrado",
+        "telefone": "(11) 9-4970-6043",
+        "email": "raphaelmelolima@gmail.com",
+        "dataDeNascimento": "22/05/1994",
+        "cpf": "422.195.978.90",
+        "signo": "gemeos"
+    },
+    {
+        "nome": "Capotador",
+        "sobrenome": "da Rota",
+        "telefone": "(11) 9-4970-6043",
+        "email": "raphaelmelolima@gmail.com",
+        "dataDeNascimento": "22/05/1994",
+        "cpf": "422.195.978.90",
+        "signo": "gemeos"
+    }
+]
